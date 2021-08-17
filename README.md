@@ -16,9 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on A django-vue chat app
+- 🔭 I’m currently working on deeping my knowledge of django
 
-- 🌱 I’m currently learning Django, Vue, Shell Scripting 
+- 🌱 I’m currently learning Django, Shell Scripting 
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
